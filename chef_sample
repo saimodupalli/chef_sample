@@ -1,0 +1,3 @@
+file 'chef_sample' do
+content 'sai,nimmi and teju are good friends'
+end
